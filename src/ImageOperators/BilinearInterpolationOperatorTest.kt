@@ -89,7 +89,6 @@ internal class BilinearInterpolationOperatorTest: BilinearOperation {
                     q10 = q10, q11 = q11,
                     wx = px - x1, wy = py - y1)
                 resultList[y][x] = result
-
                 assertEquals(expected[y][x], result, 0.001f)
             }
         }

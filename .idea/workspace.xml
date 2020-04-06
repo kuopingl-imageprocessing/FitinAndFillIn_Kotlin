@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FillinFitin:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a56c143-281d-4ad3-9068-4ad3018f1c7d" name="Default Changelist" comment="" />
+    <list default="true" id="2a56c143-281d-4ad3-9068-4ad3018f1c7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FillinFitin_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lenna100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/Lenna100.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearOperation$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearOperation$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/ImageOperations$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/ImageOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/ImageOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/META-INF/FillinFitin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImageOperators/BilinearInterpolationOperatorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImageOperators/BilinearInterpolationOperatorTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,23 +36,29 @@
       <list>
         <option value="Kotlin File" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1a6V0RDO0xflMZtZM3SMIyBIPCD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2689655" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -45,6 +71,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/res" />
       <recent name="$PROJECT_DIR$/src/ImageOperators" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -61,7 +88,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt">
+  <component name="RunManager" selected="Application.ImageOperatorUI">
+    <configuration name="ImageOperatorUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImageOperatorUI" />
+      <module name="FillinFitin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BilinearInterpolationOperatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FillinFitin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageOperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ImageOperators" />
+      <option name="MAIN_CLASS_NAME" value="ImageOperators.BilinearInterpolationOperatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BilinearInterpolationOperatorTest.testBilinearInterpolationScaleDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FillinFitin" />
       <extension name="coverage">
@@ -73,22 +122,6 @@
       <option name="PACKAGE_NAME" value="ImageOperators" />
       <option name="MAIN_CLASS_NAME" value="ImageOperators.BilinearInterpolationOperatorTest" />
       <option name="METHOD_NAME" value="testBilinearInterpolationScaleDown" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BilinearInterpolationOperatorTest.testBilinearInterpolationScaleUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FillinFitin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ImageOperators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ImageOperators" />
-      <option name="MAIN_CLASS_NAME" value="ImageOperators.BilinearInterpolationOperatorTest" />
-      <option name="METHOD_NAME" value="testBilinearInterpolationScaleUp" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,22 +143,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BilinearInterpolationOperatorTest.testLinearInterpolation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FillinFitin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ImageOperators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ImageOperators" />
-      <option name="MAIN_CLASS_NAME" value="ImageOperators.BilinearInterpolationOperatorTest" />
-      <option name="METHOD_NAME" value="testLinearInterpolation" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="FillinFitin" />
       <option name="VM_PARAMETERS" />
@@ -141,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImageOperatorUI" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="JUnit.BilinearInterpolationOperatorTest" />
         <item itemvalue="JUnit.BilinearInterpolationOperatorTest.testBilinearInterpolationScaleDown" />
         <item itemvalue="JUnit.BilinearInterpolationOperatorTest.testBilinearInterpolationScaleUpNotAlignedCorner" />
-        <item itemvalue="JUnit.BilinearInterpolationOperatorTest.testBilinearInterpolationScaleUp" />
-        <item itemvalue="JUnit.BilinearInterpolationOperatorTest.testLinearInterpolation" />
       </list>
     </recent_temporary>
   </component>
@@ -161,5 +178,18 @@
       <updated>1586055806669</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
