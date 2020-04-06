@@ -7,20 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a56c143-281d-4ad3-9068-4ad3018f1c7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FillinFitin_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lenna100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/res/Lenna100.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearOperation$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearOperation$DefaultImpls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/ImageOperations$DefaultImpls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/ImageOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/ImageOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/META-INF/FillinFitin.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/MainKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ImageOperators/BilinearInterpolationOperatorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImageOperators/BilinearInterpolationOperatorTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
