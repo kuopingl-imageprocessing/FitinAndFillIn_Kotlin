@@ -7,7 +7,7 @@ You can select scaling of both horizontal and vertical portions,
 then you can generate both Fill in and Fit in images 
 simultaneously at the destination of your choice. 
 
-[https://github.com/kuopingl-imageprocessing/FitinAndFillIn_Kotlin/blob/master/demo.png]
+<img src=https://github.com/kuopingl-imageprocessing/FitinAndFillIn_Kotlin/blob/master/demo.png/>
 
 The source code is written in Kotlin, but the UI is written in Java.
 
