@@ -55,6 +55,8 @@ val filled = imageOperator.scaleToFill(1.6f, 1.6f)
 val fit = imageOperator.scaleToFit(1.6f, 1.6f)
 ```
 
+## Tests
+
 
 
  
