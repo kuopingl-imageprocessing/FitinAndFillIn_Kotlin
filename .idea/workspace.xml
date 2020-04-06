@@ -7,7 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a56c143-281d-4ad3-9068-4ad3018f1c7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FillinFitin.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FillinFitin_jar/FillinFitin.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FillinFitin_jar/FillinFitin.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperatorUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperatorUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperatorUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperatorUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperatorUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperatorUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperatorUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperatorUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FillinFitin/ImageOperators/BilinearInterpolationOperatorTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +43,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1a6V0RDO0xflMZtZM3SMIyBIPCD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -43,7 +55,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2689655" />
   </component>
@@ -53,6 +66,9 @@
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="ImageOperators" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
