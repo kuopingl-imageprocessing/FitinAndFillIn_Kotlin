@@ -7,6 +7,8 @@ You can select scaling of both horizontal and vertical portions,
 then you can generate both Fill in and Fit in images 
 simultaneously at the destination of your choice. 
 
+[https://github.com/kuopingl-imageprocessing/FitinAndFillIn_Kotlin/blob/master/demo.png]
+
 The source code is written in Kotlin, but the UI is written in Java.
 
 ## Implementation
@@ -56,7 +58,7 @@ val fit = imageOperator.scaleToFit(1.6f, 1.6f)
 ```
 
 ## Tests
+You can find Tests for Bilinear Interpolation inside
+BilinearInterpolationOperatorTest.kt.
 
-
-
- 
+Feel free to try it out.
